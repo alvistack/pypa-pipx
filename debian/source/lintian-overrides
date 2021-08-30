@@ -1,0 +1,2 @@
+python-pipx source: no-debian-changes
+python-pipx source: version-substvar-for-external-package
