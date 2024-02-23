@@ -17,6 +17,10 @@ docs/docs.md
 pipx.1
 .pipx_tests
 /.coverage*
+<<<<<<< HEAD
 /testdata
 !/testdata/empty_project
 /.idea
+testdata
+
+.pybuild/
