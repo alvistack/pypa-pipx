@@ -1,7 +1,6 @@
 /.*_cache
 /build
 /dist
-/src/pipx/version.py
 /noxfile.py
 /.nox
 *.py[co]
@@ -15,3 +14,4 @@ __pycache__
 build
 *.whl
 /pipx.1
+.pybuild/
