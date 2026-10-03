@@ -1,0 +1,5 @@
+pipx: copyright-without-copyright-notice
+pipx: initial-upload-closes-no-bugs
+pipx: no-manual-page
+pipx: package-installs-python-pycache-dir
+pipx: zero-byte-file-in-doc-directory
