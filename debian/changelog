@@ -1,0 +1,5 @@
+python-pipx (100:1.17.14-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/pipx/releases/tag/1.17.14
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 13 Oct 2026 20:27:51 +0800
