@@ -1,7 +1,6 @@
 /.*_cache
 /build
 /dist
-/src/pipx/version.py
 /noxfile.py
 /.nox
 /.tox
